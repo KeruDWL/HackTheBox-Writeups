@@ -1,5 +1,9 @@
 # Reporte Técnico de Pentesting – HTB CodePartTwo
 
+<p align="center">
+  <img src="./Evidencia/codeparttwo_pwned.png" alt="HTB CodePartTwo Pwned" width="650">
+</p>
+
 Este repositorio contiene un reporte técnico completo de pruebas de penetración
 realizadas sobre la máquina **CodePartTwo** de la plataforma **Hack The Box**.
 
@@ -24,7 +28,7 @@ realizadas sobre la máquina **CodePartTwo** de la plataforma **Hack The Box**.
 El exploit desarrollado y utilizado durante la fase de explotación se encuentra
 disponible en el siguiente archivo:
 
-**[exploit.py](Exploits/exploit.py)**
+**[exploit.py](./Exploits/exploit.py)**
 
 ## Aviso
 Este contenido tiene fines **educativos** y fue desarrollado en un entorno
