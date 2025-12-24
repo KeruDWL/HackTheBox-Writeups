@@ -5,7 +5,7 @@ realizados sobre máquinas y desafíos de la plataforma **Hack The Box (HTB)**.
 
 El objetivo de este repositorio es funcionar tanto como **portafolio personal**
 como **material de apoyo educativo** para personas interesadas en la
-ciberseguridad ofensiva.
+ciberseguridad ofensiva y defensiva.
 
 ---
 
