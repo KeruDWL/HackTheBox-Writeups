@@ -1,4 +1,4 @@
-# Reporte Técnico de Pentesting – HTB CodePartTwo
+<h1 align="center">Reporte Técnico de Pentesting – HTB CodePartTwo</h1>
 
 <p align="center">
   <img src="./Evidencia/codeparttwo_pwned.png" alt="HTB CodePartTwo Pwned" width="650">
