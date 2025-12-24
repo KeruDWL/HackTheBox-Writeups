@@ -24,7 +24,7 @@ realizadas sobre la máquina **CodePartTwo** de la plataforma **Hack The Box**.
 El exploit desarrollado y utilizado durante la fase de explotación se encuentra
 disponible en el siguiente archivo:
 
-**[exploit.py](exploits/exploit.py)**
+**[exploit.py](Exploits/exploit.py)**
 
 ## Aviso
 Este contenido tiene fines **educativos** y fue desarrollado en un entorno
