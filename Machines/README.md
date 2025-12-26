@@ -16,6 +16,7 @@ Cada carpeta contiene:
 | Máquina        | Sistema | Estado | Writeup |
 |----------------|---------|--------|---------|
 | CodePartTwo    | Linux   | ✅ Pwned | [Ver](./CodePartTwo) |
+| Cap            | Linux   | ✅ Pwned | [Ver](./Cap)         |
 
 ---
 
