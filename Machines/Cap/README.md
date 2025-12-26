@@ -27,7 +27,7 @@ realizadas sobre la máquina **Cap** de la plataforma **Hack The Box**.
 **[Reporte completo en PDF](Reporte_HTB_Cap.pdf)**
 
 ## Archivo PCAP
-**[0.pcap](0.pcap)**
+**[0.pcap](Machines/Cap/Archivo PCAP/0.pcap)**
 
 ## Aviso
 Este contenido tiene fines **educativos** y fue desarrollado en un entorno
