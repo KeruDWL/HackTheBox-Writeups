@@ -17,6 +17,7 @@ Cada carpeta contiene:
 |----------------|---------|--------|---------|
 | CodePartTwo    | Linux   | ✅ Pwned | [Ver](./CodePartTwo) |
 | Cap            | Linux   | ✅ Pwned | [Ver](./Cap)         |
+| Conversor      | Linux   | ✅ Pwned | [Ver](./Conversor)   | 
 
 ---
 
