@@ -32,8 +32,8 @@ realizadas sobre la máquina **Conversor** de la plataforma **Hack The Box**.
 ## Reporte
 **[Reporte completo en PDF](Reporte_HTB_Conversor.pdf)**
 
-## Evidencias
-- Capturas y material de soporte en: **`./Evidencia/`**
+## Exploits
+- Capturas y material de soporte en: **`./Exploits/exploit.py`**
 
 ## Aviso
 Este contenido tiene fines **educativos** y fue desarrollado en un entorno
