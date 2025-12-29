@@ -10,24 +10,30 @@ realizadas sobre la máquina **Conversor** de la plataforma **Hack The Box**.
 ## Contenido
 - Reconocimiento y enumeración  
 - Análisis de la aplicación web  
-- Análisis de tráfico de red (PCAP)  
-- Acceso inicial al sistema  
-- Escalamiento de privilegios  
+- Revisión de código fuente (white-box)  
+- Explotación (RCE vía Path Traversal + Cron)  
+- Post-explotación (extracción de credenciales en SQLite)  
+- Crackeo de hash (MD5)  
+- Movimiento lateral (SSH)  
+- Escalamiento de privilegios (sudo / needrestart)  
 - Captura de flags (user / root)  
 
 ## Técnicas utilizadas
 - Network reconnaissance (ICMP, Nmap)  
-- Web enumeration (ffuf)  
-- Traffic analysis (PCAP / Wireshark)  
-- Credential harvesting (credenciales FTP en texto claro)  
+- Web enumeration (Gobuster)  
+- Source code review (exposición en /about)  
+- File upload abuse (Path Traversal / arbitrary file write)  
+- RCE chaining (cron job execution)  
+- Credential extraction (SQLite)  
+- Password cracking (John the Ripper + rockyou.txt, MD5)  
 - Remote access (SSH)  
-- Privilege escalation (abuso de Linux capabilities)  
+- Privilege escalation (sudo misconfiguration: needrestart config injection)  
 
 ## Reporte
-**[Reporte completo en PDF](Reporte_HTB_Cap.pdf)**
+**[Reporte completo en PDF](Reporte_HTB_Conversor.pdf)**
 
-## Archivo PCAP
-**[0.pcap](./Archivo_PCAP/0.pcap)**
+## Evidencias
+- Capturas y material de soporte en: **`./Evidencia/`**
 
 ## Aviso
 Este contenido tiene fines **educativos** y fue desarrollado en un entorno
