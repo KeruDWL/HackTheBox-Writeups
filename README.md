@@ -25,7 +25,6 @@ ciberseguridad ofensiva y defensiva.
   - Reportes técnicos en PDF
   - Exploits desarrollados durante la explotación
 - **Challenges/** *(próximamente)*
-- **Academy/** *(notas y aprendizajes técnicos)*
 - **Assets/**
   - Recursos gráficos (logos, imágenes, etc.)
 
